@@ -9,4 +9,4 @@ Komponen Yang Digunakan
 
 ## Konsep Simulasi
 Berikut adalah skematik breadbord untuk simulasi menggunakan Wokwi yang menggunakan Arduino Uno
-(https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/blob/main/Desain%20Rangkaian/DESAIN%20RANGKAIAN%201.png)
+(https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/blob/main/Desain%20Rangkaian/DESAIN%20RANGKAIAN%201.png?raw=true)

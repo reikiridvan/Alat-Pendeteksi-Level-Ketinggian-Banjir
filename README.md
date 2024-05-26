@@ -1,5 +1,4 @@
-![Cover Profil](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/7314b0c9-acdc-4127-8244-603f4213e1e1)[Uploading Cover Profil.png…]()
-ring
+![Cover Profil](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/7314b0c9-acdc-4127-8244-603f4213e1e1)
 Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digunakan untuk mengukur tingkat level bencana pada sebuah banjir. Dengan menggunakan rangkaian mikrokontroler AVR, output yang di keluarkan akan berformat MP4 dan output suara akan berbeda tergantung tiap tinggi rendahnya level bencana.
 
 ## Komponen Yang Digunakan

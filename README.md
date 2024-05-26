@@ -11,4 +11,5 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 
 ## Konsep Simulasi
 Berikut adalah skematik breadbord untuk simulasi menggunakan Wokwi yang menggunakan Arduino Uno
-![DESAIN RANGKAIAN 1](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/170291369/3b945ec4-2a28-485d-a739-e814a75e7f39)
+![Gambar Rangkaian](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/c6941daa-0f47-4ab3-b8f0-63d7dc820f36)
+

@@ -15,8 +15,12 @@ Berikut adalah skematik breadbord untuk simulasi menggunakan Wokwi yang mengguna
 
 ## 3D Design
 Berikut adalah hasil 3D Design menggunakan TinkerCad :
+
 1. 3D Design konsep alat
+   
     ![3D PNG](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/f4f3e932-139f-4a36-a8f4-e7678ca994f5)
-2. 3D Design Package
+   
+3. 3D Design Package
+   
    ![Package Arduino Uno (Image)](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/6660ee80-e628-46a9-b375-c5d34ba228a8)
 

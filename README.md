@@ -35,7 +35,31 @@ Berikut adalah hasil 3D Design menggunakan TinkerCad :
    
     ![3D PNG](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/f4f3e932-139f-4a36-a8f4-e7678ca994f5)
    
-3. 3D Design Package
+2. 3D Design Package
    
    ![Package Arduino Uno (Image)](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/6660ee80-e628-46a9-b375-c5d34ba228a8)
+
+## PCB
+Berikut Program Design PCB yang telah dibuat :
+
+1. Schematic
+
+   ![Screenshot 2024-06-01 at 13-45-54 Projek Workshop Mikrokontroler - MIKRO SEM 4 pdf](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/e81f606b-a25d-4a9f-ab0b-812c4a2408cb)
+
+2. Board
+
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/fdde5403-41cc-42a4-b613-b2f43a9454df)
+
+3. Design 3D
+
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/0190db1c-7a44-452d-8bbd-456c053680f7)
+
+4. Hasil Cetak PCB
+
+   
+
+
+
+
+   
 

@@ -9,7 +9,7 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 `TEAM`
 | No.  | Nama  | NRP  | Pembagian Tugas  |
 | :------------: | :------------: | :------------: | :------------: |
-| 1  | Moch Fatur Rochman  | 2122500003  | 3D design |
+| 1  | Moch.Rizky Faturrohman  | 2122500003  | 3D design |
 | 2  | Dimas Ramadhani | 2122500004  | Dokumentasi proyek dan pembuatan cover  |
 | 3  |  Reiki Ridvan | 2122500015  |  Perancangan Program Untuk Arduino UNO |
 | 4  |  Ahmad Rayhan Adhitama  |  2122500017 | Pembuatan Web Untuk Data Nilai Sensor, Proses soldering Komponen pada PCB |

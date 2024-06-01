@@ -1,11 +1,26 @@
 ![Cover Profil](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/7314b0c9-acdc-4127-8244-603f4213e1e1)
 Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digunakan untuk mengukur tingkat level bencana pada sebuah banjir. Dengan menggunakan rangkaian mikrokontroler AVR, output yang di keluarkan akan berformat MP4 dan output suara akan berbeda tergantung tiap tinggi rendahnya level bencana.
 
+`WORKSHOP MIKROKONTROLLER - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA`
+
+`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT`
+`NIP. 197501272002121003`
+
+`TEAM`
+| No.  | Nama  | NRP  | Pembagian Tugas  |
+| :------------: | :------------: | :------------: | :------------: |
+| 1  | Moch Fatur Rochman  | 2122500003  | 3D design |
+| 2  | Dimas Ramadhani | 2122500004  | Dokumentasi proyek dan pembuatan cover  |
+| 3  |  Reiki Ridvan | 2122500015  |  Perancangan Program Untuk Arduino UNO |
+| 4  |  Ahmad Rayhan Adhitama  |  2122500017 | Pembuatan Web Untuk Data Nilai Sensor, Proses soldering Komponen pada PCB |
+| 5  |  Moch Reyhan Yudha Saputra | 2122500023  |  Publikasi Rancangan Alat Melalui Github, Desain Skematik dan Board PCB |
+| 6  | Dwi Satrio Nugroho  |  2122500024 | Desain Skematik dan Board PCB, Proses soldering Komponen pada PCB |
+
 ## Komponen Yang Digunakan
-1. Arduino Mega 2560
+1. Arduino UNO R3
 2. Water sensor
 3. Push Button
-4. Speaker/Buzzer
+4. Speaker
 5. dll
 
 

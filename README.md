@@ -16,6 +16,14 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 | 5  |  Moch Reyhan Yudha Saputra | 2122500023  |  Publikasi Rancangan Alat Melalui Github, Desain Skematik dan Board PCB |
 | 6  | Dwi Satrio Nugroho  |  2122500024 | Desain Skematik dan Board PCB, Proses soldering Komponen pada PCB |
 
+## Daftar Isi
+- [Komponen Yang Digunakan](#Komponen-Yang-Digunakan)
+- [Blok Diagram](#Blok-Diagram)
+- [Fitur](#Fitur)
+- [Simulasi](#Konsep-Simulasi)
+- [3D Design](#3D-Design)
+- [PCB](#PCB)
+
 ## Komponen Yang Digunakan
 1. Arduino UNO R3
 2. Water level sensor

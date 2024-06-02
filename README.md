@@ -101,6 +101,10 @@ Video Tutorial : Langkah - Langkah Convert Audio Ke Bahasa C
 
    https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/ead18a85-f2a6-42ef-aa6f-99f8f66ff1ce
 
+4. Pengujian alat pada sungai
+
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/0901402b-80dd-41e3-b166-ff84cbaece14)
+
 
 
 

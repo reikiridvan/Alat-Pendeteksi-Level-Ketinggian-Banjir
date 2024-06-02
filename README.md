@@ -12,7 +12,7 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 | 1  | Moch.Rizky Faturrohman  | 2122500003  | 3D design |
 | 2  | Dimas Ramadhani | 2122500004  | Dokumentasi proyek dan pembuatan cover  |
 | 3  |  Reiki Ridvan | 2122500015  |  Perancangan Program Untuk Arduino UNO |
-| 4  |  Ahmad Rayhan Adhitama  |  2122500017 | Pembuatan Web Untuk Data Nilai Sensor, Proses soldering Komponen pada PCB |
+| 4  |  Ahmad Rayhan Adhitama  |  2122500017 |  Melakukan proses soldering Komponen pada PCB |
 | 5  |  Moch Reyhan Yudha Saputra | 2122500023  |  Publikasi Rancangan Alat Melalui Github, Desain Skematik dan Board PCB |
 | 6  | Dwi Satrio Nugroho  |  2122500024 | Desain Skematik dan Board PCB, Proses soldering Komponen pada PCB |
 

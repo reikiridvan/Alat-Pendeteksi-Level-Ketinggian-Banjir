@@ -23,6 +23,7 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 - [Simulasi](#Konsep-Simulasi)
 - [3D Design](#3D-Design)
 - [PCB](#PCB)
+- [Dokumentasi Proyek](#Dokumentasi-Proyek)
 
 ## Komponen Yang Digunakan
 1. Arduino UNO R3
@@ -84,6 +85,15 @@ Berikut hasil pembuatan audio dengan hasil editnya menggunakan software Audacity
 Video Tutorial : Langkah - Langkah Convert Audio Ke Bahasa C
 
    https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/44a9ac11-2886-480d-8157-06fb5abc79b8
+
+## Dokumentasi Proyek
+1. Pembuatan program dan simulasi rangkaian
+
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/a0b6b4bc-1a25-4938-8b5a-6a98fafffdd8)
+
+2. Pengetesan Water level sensor
+
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/e96e6099-6b38-456c-8899-c28a4241bc82)
 
 
 

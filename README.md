@@ -63,7 +63,8 @@ Berikut hasil pembuatan audio dengan hasil editnya menggunakan software Audacity
 ![WhatsApp Image 2024-06-02 at 08 14 34 (1)](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/0f8a6fea-1c4b-452f-a618-0d534d24592f)
 
 Video Tutorial : Langkah - Langkah Convert Audio Ke Bahasa C
-https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/44a9ac11-2886-480d-8157-06fb5abc79b8
+
+   https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/44a9ac11-2886-480d-8157-06fb5abc79b8
 
 
 

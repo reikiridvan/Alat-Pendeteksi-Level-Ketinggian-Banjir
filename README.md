@@ -25,11 +25,13 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 
 ## Blok Diagram
 
-![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/23f2daac-f533-4d03-8479-ca3d6626da59)
-
-Pada alat pendeteksi banjir yang telah kita buat, memiliki prinsip kerja yiatu dimana kita disini menggunakna Arduino UNO sebagai mikrokontroller yang digunakan yang dimana akan disupply teganggan berupa battery. Pertama Water level sensor akan mulai membaca nilai, jika nilai yang dibaca pada Water level sensor bernilai lebih dari "1000" maka Speaker akan mulai mengeluarkan suara yang sudah di inputkan di arduino, output suara yang dihasilkan kurang lebih seperti alarm "Awas Ada Banjir" yang akan di suarakan melalui speaker yang telah dikuatkan menggunakna Amplifier 5V. Jika dirasa durasi Alarm terlalu lama sehingga membuat warga sekitar panik, maka alarm dapat dimatikan menggunakan push button yang berfungsi sebagai interrupt untuk menghentikan pembacaan Water level sensor
+![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/9fc287d7-da1b-4631-9973-f1dbf7c13ca8)
+Pada alat pendeteksi banjir yang telah kita buat, memiliki prinsip kerja yiatu dimana kita disini menggunakna Arduino UNO sebagai mikrokontroler yang digunakan yang dimana akan disupply teganggan berupa battery. Pertama Water level sensor akan mulai membaca nilai, jika nilai yang dibaca pada Water level sensor bernilai lebih dari "1000" maka Speaker akan mulai mengeluarkan suara yang sudah di inputkan di arduino, output suara yang dihasilkan kurang lebih seperti alarm "Awas Ada Banjir" yang akan di suarakan melalui speaker yang telah dikuatkan menggunakna Amplifier 5V. Jika dirasa durasi Alarm terlalu lama sehingga membuat warga sekitar panik, maka alarm dapat dimatikan menggunakan push button yang berfungsi sebagai interrupt untuk menghentikan pembacaan Water level sensor
    
-
+## Fitur
+- Pembangkitan sinyal audio mikrokontroler AVR
+- Push Button sebagai interuppt alarm audio
+- Output audio sebagai alarm
 
 ## Konsep Simulasi
 Berikut adalah skematik breadbord untuk simulasi menggunakan Wokwi yang menggunakan Arduino Uno

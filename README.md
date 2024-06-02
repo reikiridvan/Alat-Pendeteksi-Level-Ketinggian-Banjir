@@ -18,10 +18,17 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 
 ## Komponen Yang Digunakan
 1. Arduino UNO R3
-2. Water sensor
+2. Water level sensor
 3. Push Button
 4. Speaker
-5. dll
+5. Amplifier PAM8403 DC 5V
+
+## Blok Diagram
+
+![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/23f2daac-f533-4d03-8479-ca3d6626da59)
+
+Pada alat pendeteksi banjir yang telah kita buat, memiliki prinsip kerja yiatu dimana kita disini menggunakna Arduino UNO sebagai mikrokontroller yang digunakan yang dimana akan disupply teganggan berupa battery. Pertama Water level sensor akan mulai membaca nilai, jika nilai yang dibaca pada Water level sensor bernilai lebih dari "1000" maka Speaker akan mulai mengeluarkan suara yang sudah di inputkan di arduino, output suara yang dihasilkan kurang lebih seperti alarm "Awas Ada Banjir" yang akan di suarakan melalui speaker yang telah dikuatkan menggunakna Amplifier 5V. Jika dirasa durasi Alarm terlalu lama sehingga membuat warga sekitar panik, maka alarm dapat dimatikan menggunakan push button yang berfungsi sebagai interrupt untuk menghentikan pembacaan Water level sensor
+   
 
 
 ## Konsep Simulasi

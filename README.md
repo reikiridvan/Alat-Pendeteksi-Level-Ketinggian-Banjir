@@ -57,6 +57,9 @@ Berikut adalah hasil 3D Design menggunakan TinkerCad :
    
    ![Package Arduino Uno (Image)](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/6660ee80-e628-46a9-b375-c5d34ba228a8)
 
+3. Hasil cetak case arduino
+![case arduino](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/493f49aa-e1bd-4d6e-9f28-29c037055429)
+   
 ## PCB
 Berikut Program Design PCB yang telah dibuat :
 
@@ -77,6 +80,7 @@ Berikut Program Design PCB yang telah dibuat :
    ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/19f0b355-4497-4219-b260-32482fcb6d02)
 
 Video Tutorial :Langkah - langkah pembuatan PCB
+https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/134507164/7d09def3-0b46-4763-8496-2ca6ddae62d7
 
 
 ## Audio Project

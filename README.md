@@ -97,6 +97,10 @@ Video Tutorial : Langkah - Langkah Convert Audio Ke Bahasa C
 
    ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/e96e6099-6b38-456c-8899-c28a4241bc82)
 
+3. Pengetesan Speaker
+
+   https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/ead18a85-f2a6-42ef-aa6f-99f8f66ff1ce
+
 
 
 

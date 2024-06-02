@@ -65,6 +65,8 @@ Berikut Program Design PCB yang telah dibuat :
 
 4. Hasil Cetak PCB
 
+   ![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/19f0b355-4497-4219-b260-32482fcb6d02)
+
    
 ## Audio Project
 Berikut hasil pembuatan audio dengan hasil editnya menggunakan software Audacity yang kemudian didapatkan file raw yang dibuka melalui software HxD untuk memperoleh datanya dan didapatkan program bahasa C. Program bahasa C tersebut digunakan untuk memrogram Arduino UNO agar audio berfungsi. Berikut hasil dokumentasinya :

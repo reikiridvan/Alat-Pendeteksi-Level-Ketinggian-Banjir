@@ -20,7 +20,7 @@ Pendeteksi level ketinggian banjir merupakan suatu perangkat yang nantinya digun
 - [Komponen Yang Digunakan](#Komponen-Yang-Digunakan)
 - [Blok Diagram](#Blok-Diagram)
 - [Fitur](#Fitur)
-- [Simulasi](#Konsep-Simulasi)
+- [Desain Rangkaian](#Desain-Rangkaian)
 - [3D Design](#3D-Design)
 - [PCB](#PCB)
 - [Dokumentasi Proyek](#Dokumentasi-Proyek)
@@ -42,9 +42,9 @@ Pada alat pendeteksi banjir yang telah kita buat, memiliki prinsip kerja yiatu d
 - Push Button sebagai interuppt alarm audio
 - Output audio sebagai alarm
 
-## Konsep Simulasi
+## Desain Rangkaian
 Berikut adalah skematik breadbord untuk simulasi menggunakan Wokwi yang menggunakan Arduino Uno
-![Gambar Rangkaian](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/c6941daa-0f47-4ab3-b8f0-63d7dc820f36)
+![image](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/429d990a-663b-4f07-827f-03e722ed1c1f)
 
 ## 3D Design
 Berikut adalah hasil 3D Design menggunakan TinkerCad :

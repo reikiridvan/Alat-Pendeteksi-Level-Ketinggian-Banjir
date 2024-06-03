@@ -62,6 +62,9 @@ Berikut adalah hasil 3D Design menggunakan TinkerCad :
 
 Berikut adalah tutorial dalam pembuatan desain case Arduino UNO menggunakan Thinkercad pada proyek ini. Bisa klik link [berikut.](https://youtu.be/i5TSe1QAH68?si=4G1KmNbXgsI5xHIV "berikut.")
 
+https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/43fbf41c-e08d-4e37-8248-c662943a5e90
+
+
 ## PCB
 Berikut Program Design PCB yang telah dibuat :
 

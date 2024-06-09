@@ -120,9 +120,14 @@ Video Tutorial : Langkah - Langkah Convert Audio Ke Bahasa C
    https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/c71d29dc-50ec-499a-8ccf-71fea559822b
 
 6. Video Promosi
-   Untuk Video promosi dari "alat pendeteksi ketinggian banjir" yang telah dibuat dapat dilihat pada link [berikut.](https://youtu.be/Jxg5Ch7Bdpk "berikut.")
    
-7. poster
+   Untuk Video promosi dari "alat pendeteksi ketinggian banjir" yang telah dibuat dapat dilihat pada link [berikut.](https://youtu.be/Jxg5Ch7Bdpk "berikut.")
+
+7. Video Presentasi
+
+   Video presentasi, penjelasan dari "alat pendeteksi ketinggian banjir" dapat dilihat pada link [berikut.](https://www.youtu.be/Jxg5Ch7Bdpk&t "berikut.")
+
+9. poster
    ![poster](https://github.com/reikiridvan/Alat-Pendeteksi-Level-Ketinggian-Banjir/assets/168399517/0aefa5cb-c58d-49e7-a27b-301d5130fc81)
 
 
